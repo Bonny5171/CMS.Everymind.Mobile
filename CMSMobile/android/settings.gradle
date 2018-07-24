@@ -1,0 +1,3 @@
+rootProject.name = 'CMSMobile'
+
+include ':app'
