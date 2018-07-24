@@ -1,0 +1,29 @@
+{
+  "name": "cms.everymind.mobile",
+  "version": "1.0.0",
+  "description": "App ReactNative\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D Native, com objetivo de trabalho on e offline.",
+  "main": "index.js",
+  "dependencies": {
+    "react-native-cli": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bonny5171/CMS.Everymind.Mobile.git"
+  },
+  "keywords": [
+    "React",
+    "App\u001b[D\u001b[D\u001b[\u001b[\u001b[3~\u001b[3~\u001b[3~",
+    "Native",
+    "SQLite\u001b[H\u001b[F"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bonny5171/CMS.Everymind.Mobile/issues"
+  },
+  "homepage": "https://github.com/Bonny5171/CMS.Everymind.Mobile#readme"
+}
