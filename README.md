@@ -81,3 +81,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## JSDay-Offline-first-the-painless-way-wide
 https://d2yei5s1by8ykd.cloudfront.net/wp-content/uploads/2015/05/22111227/jSDay-Offline-first-the-painless-way-wide.001-800x450.jpg
 
+## Montagem de um ambiente para desenvolvimento.
+
+Tentei emular para IOS porem não tenho mac.
+Tentei emular no meu OS Windows 10 porem como tenho PC AMD sem virtualização VT VX da intel não consigo utilizar um emulador do android.
+Estou partindo para 3 opção o app Expo, que sera utilizado para disponibilizar o app para Tester, amigos eu stakeholders.
